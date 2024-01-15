@@ -1,2 +1,2 @@
-# Adaptive-Vision-Transformer-Event-Based-Human-Pose-Estimation
+# Adaptive Vision Transformer for Event-Based Human Pose Estimation
 Event-Based Human Pose Estimation
